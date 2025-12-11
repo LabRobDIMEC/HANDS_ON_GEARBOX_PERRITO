@@ -18,7 +18,7 @@ You can check more info at [DRV8302 arduino-simpleFOC example.](https://docs.sim
 
 ```sh
 # Clone repository
-git clone https://github.com/LabRobDIMEC/ICRA_LA_CHILE_HO1b.git
+git clone https://github.com/LabRobDIMEC/HANDS_ON_GEARBOX_PERRITO.git
 ```
 
 ### Input target position in radians: `T001` (1 radian in positive direction). Do not forget, this is the motor position, but not the actuator output position.
